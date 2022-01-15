@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "758641840182",
+    "project_id": "authyassinetayachi",
+    "storage_bucket": "authyassinetayachi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:758641840182:android:b1771c390db341c1f58897",
+        "android_client_info": {
+          "package_name": "com.AuthYassine.loginwithfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "758641840182-c4dhlhq2ak0f3v8v8kjabdiqhuieov1q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtgFo6k1WwBw4CNck1X0jGDnMeROcLHeo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "758641840182-c4dhlhq2ak0f3v8v8kjabdiqhuieov1q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
